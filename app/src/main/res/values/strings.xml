@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Estudante</string>
+    <string name="idLabel">ID:</string>
+    <string name="code">code</string>
+    <string name="text">text</string>
+    <string name="save">Save</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+</resources>
